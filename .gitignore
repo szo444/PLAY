@@ -15,3 +15,8 @@ node_modules/
 # Temp
 *.tmp
 *.temp
+
+# Skills (synced from gemini-config via project-setup)
+.agents/skills/
+.claude/skills/
+skills-lock.json
